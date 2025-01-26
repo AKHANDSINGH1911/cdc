@@ -1,2 +1,3 @@
 # cdc
-this is readme file
+this is my readme file
+I am going to start github from today
